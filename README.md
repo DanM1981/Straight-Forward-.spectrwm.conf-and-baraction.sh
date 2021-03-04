@@ -1,3 +1,4 @@
 # Straight-Forward-.spectrwm.conf-and-baraction.sh
 Baraction.sh you can find in Derek Taylor's config files. My spectrwm.conf is basic and straightforward with my main terminal being kitty and brave as my browser most of the original keybindings are there and some I included myself to my liking to use pulsemixer and pcmanfm. I will also include my own personal autostart.sh file. it could be for myself in the future or for others that need it. Make sure to chmod +x your autostart.sh and your baraction.sh. You will see the other prefered programs to my spectrwm.conf. This a great way to learn and get started with Spectrwm
 other programs involved are xfce4-power-manager and xscreensaver. Also polkit-dumb-agent is used for autostart. Have fun.
+A must to install for icons in the spectrwm bar is the joypixels font which is an emoji font.
